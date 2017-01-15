@@ -16,6 +16,15 @@ int main(int argc, const char *argv[])
 	printf("yangyang\n");
 	printf("yangyang\n");
 	printf("yangyang\n");
+	printk("1111111111111\n");
+	printk("1111111111111\n");
+	printk("1111111111111\n");
+	printk("1111111111111\n");
+	printk("1111111111111\n");
+	printk("1111111111111\n");
+	printk("1111111111111\n");
+	printk("1111111111111\n");
+
 	return 0;
 }
 
